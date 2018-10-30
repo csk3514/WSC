@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/whatsapp-stickers-convert/static/css/main.34c841a2.chunk.css"
   },
   {
-    "revision": "993fe1c7c3810308a94f58ca28a9f37f",
+    "revision": "283ba217e801b3563bd8b4573070a67c",
     "url": "/whatsapp-stickers-convert/index.html"
   }
 ];
