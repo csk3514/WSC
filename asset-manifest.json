@@ -1,7 +1,7 @@
 {
   "main.css": "/whatsapp-stickers-convert/static/css/main.fc2b4044.chunk.css",
-  "main.js": "/whatsapp-stickers-convert/static/js/main.51a058d9.chunk.js",
-  "main.js.map": "/whatsapp-stickers-convert/static/js/main.51a058d9.chunk.js.map",
+  "main.js": "/whatsapp-stickers-convert/static/js/main.ad39dbc9.chunk.js",
+  "main.js.map": "/whatsapp-stickers-convert/static/js/main.ad39dbc9.chunk.js.map",
   "static/css/1.946b12ff.chunk.css": "/whatsapp-stickers-convert/static/css/1.946b12ff.chunk.css",
   "static/js/1.b0fc3dcc.chunk.js": "/whatsapp-stickers-convert/static/js/1.b0fc3dcc.chunk.js",
   "static/js/1.b0fc3dcc.chunk.js.map": "/whatsapp-stickers-convert/static/js/1.b0fc3dcc.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.946b12ff.chunk.css.map": "/whatsapp-stickers-convert/static/css/1.946b12ff.chunk.css.map",
   "static/css/main.fc2b4044.chunk.css.map": "/whatsapp-stickers-convert/static/css/main.fc2b4044.chunk.css.map",
   "index.html": "/whatsapp-stickers-convert/index.html",
-  "precache-manifest.5623ecdcfd10ee414b77e5fd2e3866aa.js": "/whatsapp-stickers-convert/precache-manifest.5623ecdcfd10ee414b77e5fd2e3866aa.js",
+  "precache-manifest.89d0c88452216eeea7ebe045f2c25629.js": "/whatsapp-stickers-convert/precache-manifest.89d0c88452216eeea7ebe045f2c25629.js",
   "service-worker.js": "/whatsapp-stickers-convert/service-worker.js"
 }
