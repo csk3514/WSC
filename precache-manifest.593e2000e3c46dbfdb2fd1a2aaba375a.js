@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/whatsapp-stickers-convert/static/js/runtime~main.104fcc45.js"
   },
   {
-    "revision": "e518ce03b7cc007ccb83",
-    "url": "/whatsapp-stickers-convert/static/js/main.e518ce03.chunk.js"
+    "revision": "9997681ecf1bf941b75c",
+    "url": "/whatsapp-stickers-convert/static/js/main.9997681e.chunk.js"
   },
   {
-    "revision": "6c5500d020f5b0146f91",
-    "url": "/whatsapp-stickers-convert/static/js/1.6c5500d0.chunk.js"
+    "revision": "fbc25cd97cb0f7ca4742",
+    "url": "/whatsapp-stickers-convert/static/js/1.fbc25cd9.chunk.js"
   },
   {
-    "revision": "e518ce03b7cc007ccb83",
+    "revision": "9997681ecf1bf941b75c",
     "url": "/whatsapp-stickers-convert/static/css/main.d16686c7.chunk.css"
   },
   {
-    "revision": "6c5500d020f5b0146f91",
+    "revision": "fbc25cd97cb0f7ca4742",
     "url": "/whatsapp-stickers-convert/static/css/1.7a389171.chunk.css"
   },
   {
-    "revision": "26ef4f94f961dbd9a9261606e5780dc3",
+    "revision": "2ed682632493e53adb3029441d25e101",
     "url": "/whatsapp-stickers-convert/index.html"
   }
 ];
