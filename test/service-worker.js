@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/whatsapp-stickers-convert/test/precache-manifest.2b4b6ddac21d9822ddf8448d38bd73ca.js"
+  "/whatsapp-stickers-convert/test/precache-manifest.5451b6ba736afc52d35a6394c74cbb09.js"
 );
 
 workbox.clientsClaim();
