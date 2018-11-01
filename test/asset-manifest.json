@@ -1,15 +1,15 @@
 {
-  "main.css": "/whatsapp-stickers-convert/static/css/main.d16686c7.chunk.css",
-  "main.js": "/whatsapp-stickers-convert/static/js/main.7a1ad63d.chunk.js",
-  "main.js.map": "/whatsapp-stickers-convert/static/js/main.7a1ad63d.chunk.js.map",
-  "static/css/1.7a389171.chunk.css": "/whatsapp-stickers-convert/static/css/1.7a389171.chunk.css",
-  "static/js/1.c9864e45.chunk.js": "/whatsapp-stickers-convert/static/js/1.c9864e45.chunk.js",
-  "static/js/1.c9864e45.chunk.js.map": "/whatsapp-stickers-convert/static/js/1.c9864e45.chunk.js.map",
-  "runtime~main.js": "/whatsapp-stickers-convert/static/js/runtime~main.104fcc45.js",
-  "runtime~main.js.map": "/whatsapp-stickers-convert/static/js/runtime~main.104fcc45.js.map",
-  "static/css/main.d16686c7.chunk.css.map": "/whatsapp-stickers-convert/static/css/main.d16686c7.chunk.css.map",
-  "static/css/1.7a389171.chunk.css.map": "/whatsapp-stickers-convert/static/css/1.7a389171.chunk.css.map",
-  "index.html": "/whatsapp-stickers-convert/index.html",
-  "precache-manifest.fc21f65948c3503ddd515cb9f22018fd.js": "/whatsapp-stickers-convert/precache-manifest.fc21f65948c3503ddd515cb9f22018fd.js",
-  "service-worker.js": "/whatsapp-stickers-convert/service-worker.js"
+  "main.css": "/whatsapp-stickers-convert/test/static/css/main.d16686c7.chunk.css",
+  "main.js": "/whatsapp-stickers-convert/test/static/js/main.46a3bbf6.chunk.js",
+  "main.js.map": "/whatsapp-stickers-convert/test/static/js/main.46a3bbf6.chunk.js.map",
+  "static/css/1.7a389171.chunk.css": "/whatsapp-stickers-convert/test/static/css/1.7a389171.chunk.css",
+  "static/js/1.c9864e45.chunk.js": "/whatsapp-stickers-convert/test/static/js/1.c9864e45.chunk.js",
+  "static/js/1.c9864e45.chunk.js.map": "/whatsapp-stickers-convert/test/static/js/1.c9864e45.chunk.js.map",
+  "runtime~main.js": "/whatsapp-stickers-convert/test/static/js/runtime~main.d4620e90.js",
+  "runtime~main.js.map": "/whatsapp-stickers-convert/test/static/js/runtime~main.d4620e90.js.map",
+  "static/css/1.7a389171.chunk.css.map": "/whatsapp-stickers-convert/test/static/css/1.7a389171.chunk.css.map",
+  "static/css/main.d16686c7.chunk.css.map": "/whatsapp-stickers-convert/test/static/css/main.d16686c7.chunk.css.map",
+  "index.html": "/whatsapp-stickers-convert/test/index.html",
+  "precache-manifest.14ae67ca85811b8defaf24ba568d6487.js": "/whatsapp-stickers-convert/test/precache-manifest.14ae67ca85811b8defaf24ba568d6487.js",
+  "service-worker.js": "/whatsapp-stickers-convert/test/service-worker.js"
 }

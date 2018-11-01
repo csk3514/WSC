@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/whatsapp-stickers-convert/precache-manifest.fc21f65948c3503ddd515cb9f22018fd.js"
+  "/whatsapp-stickers-convert/test/precache-manifest.14ae67ca85811b8defaf24ba568d6487.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/whatsapp-stickers-convert/index.html", {
+workbox.routing.registerNavigationRoute("/whatsapp-stickers-convert/test/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
